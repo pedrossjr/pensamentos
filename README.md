@@ -1,4 +1,4 @@
-![Logo](https://github.com/pedrossjr/portscan-detect/blob/main/my-app/img/portscan.png)
+![Logo](https://github.com/pedrossjr/pensamentos/tree/main/public/img/page.png)
 
 # Sistema de publicação de pensamentos
 
