@@ -1,4 +1,4 @@
-![Logo](https://github.com/pedrossjr/pensamentos/page.png)
+![Logo](public/img/page.png)
 
 # Sistema de publicação de pensamentos
 
